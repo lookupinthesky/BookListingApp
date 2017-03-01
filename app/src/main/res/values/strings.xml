@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="inform_user">Hello there! \n Just type in the name of your favorite books and get the results</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
